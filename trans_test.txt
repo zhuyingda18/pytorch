@@ -1,0 +1,1 @@
+Test for translate: I have an apple with size = {data.size} and color = {data.color}.
